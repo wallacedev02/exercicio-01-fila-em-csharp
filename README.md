@@ -1,6 +1,6 @@
 # Estrutura de Dados e Análise de Algoritmos
 
-## Listas em C#
+## Fila em C#
 
 <p align="center">
   <a href="#">
