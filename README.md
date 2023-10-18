@@ -22,7 +22,7 @@ Registre o tempo de espera dos clientes na fila.
 
 <p align="center">
   <a href="#">
-    <img src="logo\code.png" width="600" alt="Saída do Programa">
+    <img src="logo\code.png" width="800" alt="Saída do Programa">
   </a>
 </p>
 
